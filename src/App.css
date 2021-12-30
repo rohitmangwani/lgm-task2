@@ -1,0 +1,19 @@
+.App {
+  margin: 2;
+}
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  text-align: center;
+  color: white;
+}
+.text-muted {
+  font-size: 30px;
+}
+.btn-info {
+  background-color: yellow;
+}
